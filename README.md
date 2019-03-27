@@ -38,3 +38,17 @@ Run the following command:
   `python3 SudokySolver.py`_`pathtoformattedsudokupuzzle`_
   
 #### How to format sudoku puzzle
+Check out [this file][sudoku example] for an example.
+
+The file ending does not matter, I just used .sdku to indicate what the file is for.
+Each row must be on a new line.
+Empty squares must be marked as a _0_.
+Columns must be seperated by a single space.
+
+Each formatted sudoku puzzle may contain only one puzzle and may not contain anything but that puzzle.
+
+## Created by
+Noah Sragow
+
+
+[sudoku example]: https://github.com/nsragow/sudoku_solver/blob/master/practice1.sdku
