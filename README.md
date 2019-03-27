@@ -17,7 +17,7 @@ Tracks possibilities and alerts its three containers (row, column, square) when 
 
 #### Container
 There are three types of containers: row, column, square.
-Since all the types of containers function identically (they all require numbers 1-9 and contain nine boxes) they are represented by the same python class.
+Since all the types of containers function identically (they all require numbers 1-9 and contain nine boxes), they are represented by the same python class.
 Alerts all boxes within itself when one box within itself has been solved.
 
 #### Board
